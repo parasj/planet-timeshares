@@ -1,0 +1,180 @@
+body {
+  height: 100%;
+  background: url('../images/ESO-L._Calc%CC%A7ada_-_Pluto_(by).jpg') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  font: 700 1em/1.38 'PT Sans Caption';
+  color: rgb(0, 0, 0);
+}
+
+.element {
+  position: relative;
+  float: left;
+  border: 2px solid rgba(255, 255, 255, 0.64);
+  border-radius: 10px;
+  background-color: rgba(222, 222, 222, 0.53);
+}
+
+.image {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  width: 11.6666666666%;
+  height: 35px;
+  border-radius: 3px;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  background-color: rgb(192, 186, 172);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset;
+}
+
+.element-1 {
+  z-index: 0;
+  width: 54.3333333333%;
+  height: 199px;
+  margin: 74px 0 0 22.83073%;
+}
+
+.element-2 {
+  clear: both;
+  z-index: 4;
+  width: 40.75%;
+  height: 139px;
+  margin-left: 29.58073%;
+}
+
+.element-3 {
+  z-index: 10;
+  width: 40.75%;
+  height: 139px;
+  margin: 28px 0 0 12.04948%;
+}
+
+.image-1 {
+  position: relative;
+  clear: both;
+  z-index: 6;
+  width: 176px;
+  margin: -122px 0 0 31.4987%;
+}
+
+.image-2 {
+  width: 54px;
+  margin: 35px 0 0 13.04948%;
+}
+
+.image-3 {
+  position: relative;
+  clear: both;
+  z-index: 15;
+  width: 176px;
+  margin: -123px 0 0 31.4987%;
+}
+
+.text-1 {
+  position: relative;
+  clear: both;
+  z-index: 1;
+  margin: -191px 0 0 26.04948%;
+  padding: 4px;
+  text-shadow: 1px 2px 0 rgba(6, 5, 48, 0.5);
+  font: 2.813em/1.28 Montserrat;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  word-spacing: 3px;
+  color: rgb(234, 234, 234);
+}
+
+.text-2 {
+  position: relative;
+  z-index: 3;
+  width: 50.2499999999%;
+  margin: -126px 0 0 25%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  width: 326px;
+  margin: 73px 0 0 36.39974%;
+  padding: 4px;
+  text-shadow: 1px 2px 0 rgba(6, 5, 48, 0.5);
+  font: 2.063em/1.28 Montserrat;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  word-spacing: 3px;
+  color: rgb(215, 215, 215);
+}
+
+.text-4 {
+  position: relative;
+  z-index: 7;
+  margin: -115px 0 0 53.54948%;
+  font: 1.438em/1.38 Cabin;
+  color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  position: relative;
+  z-index: 9;
+  margin: -84px 0 0 51.73177%;
+  font: 400 1em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+.text-6 {
+  position: relative;
+  z-index: 11;
+  margin: -115px 0 0 53.56771%;
+  font: 1.438em/1.38 Cabin;
+  color: rgb(0, 0, 0);
+}
+
+.text-7 {
+  position: relative;
+  z-index: 13;
+  margin: -84px 0 0 51.75%;
+  font: 400 1em/1.38 'Open Sans';
+  color: rgb(0, 0, 0);
+}
+
+._button-1 {
+  z-index: 2;
+  margin: -63px 0 0 45.13151%;
+  background-color: rgb(222, 222, 222);
+}
+
+._button-2 {
+  z-index: 8;
+  margin: -58px 0 0 52.73177%;
+  background-color: rgba(114, 205, 97, 0.87);
+}
+
+._button-3 {
+  z-index: 12;
+  margin: -58px 0 0 52.7513%;
+  background-color: rgba(114, 205, 97, 0.87);
+}
